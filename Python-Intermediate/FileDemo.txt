@@ -1,5 +1,4 @@
-line 1
-line 2
-line 3
-line 4
-Writing in append mode1010
+s1
+s2
+s3
+s4
