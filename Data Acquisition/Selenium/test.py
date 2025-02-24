@@ -9,3 +9,4 @@ url = "https://www.google.com"
 driver.get(url)
 
 time.sleep(10)
+driver.quit()
